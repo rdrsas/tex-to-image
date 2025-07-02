@@ -1,4 +1,4 @@
-# LaTeX to Image (.png)
+# LaTeX Table to Image (.png)
 
 I use this to generate high-dpi image files for my LaTeX tables (primarily regression tables from Stata). You will have to change root_folder under main to the folder where your .tex files are located and PDFLATEX_PATH to where your pdflatex is located.
 
